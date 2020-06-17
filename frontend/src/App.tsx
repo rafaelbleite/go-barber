@@ -12,8 +12,6 @@ const App: React.FC = () => (
     <AppProvider>
       <Routes />
     </AppProvider>
-    <h1>Teste</h1>
-
     <GlobalStyle />
   </BrowserRouter>
 );
